@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body background="6.jpg"></body>
+<body>
+    
+    <h1>计算机学科关系图</h1>
+    <img src="3.jpg"/>
+    <h1>计算机学科资料</h1>
+    <a href="计算机科学.html">计算机科学</a>
+    <a href="计算机工程.html">计算机工程</a>
+    <a href="软件工程.html">软件工程</a>
+    <a href="信息系统.html">信息系统</a>
+    <a href="信息技术.html">信息技术</a>
+    <a href="新领域.html">新领域</a>
+    <h1>我对计算机专业的认识</h1>
+    <p><em><strong>在这个科学技术飞速发展的时代，计算机专业无疑是一个热门的选择，计算机作为代替人类大脑执行更多复杂且精密的操作的机器，在未来的更为复杂的世界中肯定更为有用，可以说，未来的大多数事务都离不开计算机的基础支持，这种在未来既是基础又是高精尖的技术，正是我们现当代大学生所需要重视的，特别是当今各国的摩擦碰撞不断，世界格局动荡，作为祖国未来的栋梁，我们更应该努力学习计算机科学，为祖国未来发展出一份力。</strong></em></p>
+    <h1>我的学业规划</h1>
+    <p><em><strong>作为一个大一新生，我目前的规划便是踏踏实实学好每一门课程，尽量多了解一些知识，为自己未来的高精的学习打下一个不错的基础，至少不是成为只会一件事，其他一窍不通的学生。在面对一些事情时，我们可以找得到其他学科的解决方法，简化现有的问题，不至于在一个自己看来困难无比，而别人却认为十分简单的问题上纠结很久。</strong></em></p>
+</body>
+</html>
