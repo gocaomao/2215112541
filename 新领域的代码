@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>新领域</title>
+</head>
+<body background="6.jpg"></body>
+<body>
+    <h1>新领域</h1>
+    <h3>1、量子计算机的发展；</h3>
+
+    <h3>2、机器人的进一步研发；</h3>
+
+    <h3>3、基于IPV6标准的新一代Internet网络；</h3>
+
+    <h3>4、基于3G、4G的宽带无线移动网络；</h3>
+
+    <h3>5、基于数据仓库和网络的的数据挖掘技术；</h3>
+
+    <h3>6、串联在线入侵检测及防护等网络安全技术；</h3>
+    <h3>7、全球负载均衡的分布式网络资源管理技术。</h3>
+</body>
+</html>
